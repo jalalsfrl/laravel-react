@@ -1,5 +1,12 @@
 ## Available Scripts
 
+### `Project description`
+ This project is web project which backend is laravel and frontend is react.
+ Backend and frontend connected each other using restAPI.
+ Backend source is in /api subfolder.
+ This project is ddos project.
+ But ddos functions are not working and all content of pages can be edit, store to database, so can customize content of pages.
+ 
 In the project directory, you can run:
 ### `npm install`
 Install node modules.
